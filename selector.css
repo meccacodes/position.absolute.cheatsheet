@@ -1,0 +1,8 @@
+selector {
+  position: absolute;
+  top: value; /* Offset from the top edge of the containing block */
+  right: value; /* Offset from the right edge of the containing block */
+  bottom: value; /* Offset from the bottom edge of the containing block */
+  left: value; /* Offset from the left edge of the containing block */
+  z-index: value; /* Stack order of the element */
+}
