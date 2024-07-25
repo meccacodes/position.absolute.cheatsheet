@@ -1,6 +1,6 @@
 # Position Absolutely
 
-## Code Examples found in this article:
+## Code examples originally from this article:
 
 ### Overview
 
