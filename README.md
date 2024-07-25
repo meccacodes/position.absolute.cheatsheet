@@ -25,7 +25,7 @@ selector {
 
 ### Example 1: Basic Absolute Positioning
 
-<!DOCTYPE html>
+``` <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,9 +54,11 @@ selector {
     </div>
 </body>
 </html>
+```
 
 ### Example 2: Centering with Absolute Positioning
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,9 +89,11 @@ selector {
     </div>
 </body>
 </html>
+```
 
 ### Example 3: Using z-index
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,6 +134,7 @@ selector {
     </div>
 </body>
 </html>
+```
 
 
 ### Tips
